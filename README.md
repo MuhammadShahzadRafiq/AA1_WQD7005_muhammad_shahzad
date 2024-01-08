@@ -14,7 +14,7 @@ Tools Used in the case Study are :
 
 **Talend Data Prep:** Its is used for data cleaning and preparation before importing the dataset into SAS Enterprise Miner
 
-**findings and insights**
+# Findings and Insights
 
 The key findings and insights derived from the analysis should be to the identification of factors influencing churn, such as frequency of website visits, total purchases, and total spent. The decision tree and ensemble methods analysis are one of the ways to perform such Analysis, customer engagement in terms of website visits, purchase behavior, and spending are key factors influencing churn. By understanding these factors, businesses can develop targeted retention strategies to engage at-risk customers and prevent them from churning.
 
